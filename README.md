@@ -8,10 +8,9 @@
 My name is Elisha J Marshall and I am a Creative Web Developer from South Fl. I have a serious passion for building aesthetic design experiences. I specialize in creating fast and responsive websites that work on all devices.</p>
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://github.com/iamelimars/"><img height="30" src="https://user-images.githubusercontent.com/12935765/106039475-29ade800-60a7-11eb-86f0-47c8247a16bb.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/elicodes"><img height="50" src="https://user-images.githubusercontent.com/12935765/106039477-29ade800-60a7-11eb-84ee-89eaa8a30f64.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/elicodes/"><img height="50" src="https://user-images.githubusercontent.com/12935765/106039476-29ade800-60a7-11eb-9f84-f7db5189d511.png"></a>
 </p>
 
 
